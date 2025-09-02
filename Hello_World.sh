@@ -13,7 +13,7 @@ then
 # Print message directory already exists
 else
     echo "Temp already exists"
-fi 
+fi
 # change to Temp directory
 cd Temp
 echo "This is the current directory: $(pwd)"
